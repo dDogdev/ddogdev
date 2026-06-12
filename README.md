@@ -91,12 +91,10 @@ My development ecosystem covers the best modern tools to build resilient systems
 <br>
 
 <div align="center">
-  <a href="https://github.com/dDogdev">
-    <img src="https://github-readme-stats.vercel.app/api?username=dDogdev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="GitHub Statistics" />
-  </a>
-  <a href="https://github.com/dDogdev">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=dDogdev&theme=dracula" alt="GitHub Streak" />
-  </a>
+  <img src="https://img.shields.io/badge/Total_Commits-2.4k-ff8c00?style=for-the-badge&logo=github&logoColor=white" alt="Commits" />
+  <img src="https://img.shields.io/badge/Total_PRs-185-ff8c00?style=for-the-badge&logo=github&logoColor=white" alt="PRs" />
+  <img src="https://img.shields.io/badge/Total_Stars-56-ff8c00?style=for-the-badge&logo=github&logoColor=white" alt="Stars" />
+  <img src="https://img.shields.io/badge/Current_Streak-14_Days-ff8c00?style=for-the-badge&logo=github&logoColor=white" alt="Streak" />
 </div>
 
 ---
