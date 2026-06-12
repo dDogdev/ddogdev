@@ -1,10 +1,10 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=00c6ff,0072ff&height=250&section=header&text=Emmanuell%20Chaib&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer&descSize=22&descAlignY=55&fontColor=ffffff&descColor=ffffff" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=ff4500,ff8c00&height=250&section=header&text=Emmanuell%20Chaib&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer&descSize=22&descAlignY=55&fontColor=ffffff&descColor=ffffff" />
 </div>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=0072ff&center=true&vCenter=true&width=600&lines=Hello,+I%27m+Emmanuell+Chaib!;Full+Stack+Developer;More+than+a+project,+an+experience" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=E25908&center=true&vCenter=true&width=600&lines=Hello,+I%27m+Emmanuell+Chaib!;Full+Stack+Developer;More+than+a+project,+an+experience" alt="Typing SVG">
   </a>
 </div>
 
@@ -23,7 +23,11 @@
 
 My name is Emmanuell Chaib, I'm a Full Stack Developer focused on creating scalable, efficient, and high-impact solutions. I love building robust architectures and believe in clean code as the foundation for excellence.
 
+<br>
+
 When I'm not coding, I enjoy studying new software architecture paradigms, exploring new technologies, and constantly improving my development skills.
+
+<br>
 
 - 💼 Currently working as a **Mid-Level Developer** at Itaú.
 
@@ -78,13 +82,16 @@ My development ecosystem covers the best modern tools to build resilient systems
 
 ---
 
-## 📊 GitHub Metrics
+## 📊 GitHub Statistics
 
 <br>
 
 <div align="center">
   <a href="https://github.com/dDogdev">
-    <img src="https://metrics.lecoq.io/dDogdev?config_theme=tokyonight&base=header,activity,community,repositories,metadata&plugin_isocalendar=1&plugin_isocalendar_duration=half-year&plugin_achievements=1&plugin_achievements_display=detailed&plugin_achievements_secrets=true" alt="GitHub Metrics" />
+    <img src="https://github-readme-stats.vercel.app/api?username=dDogdev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="GitHub Statistics" />
+  </a>
+  <a href="https://github.com/dDogdev">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=dDogdev&theme=dracula" alt="GitHub Streak" />
   </a>
 </div>
 
@@ -97,14 +104,14 @@ Let's talk about code, architecture, or new ideas? Feel free to reach out to me:
 <br>
 
 <div align="center">
-  <a href="mailto:your-email-here@gmail.com">
+  <a href="mailto:odilonchb@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://www.linkedin.com/in/your-profile-here/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://instagram.com/odilonchaib">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </div>
 
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=00c6ff,0072ff&height=100&section=footer" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=ff4500,ff8c00&height=100&section=footer" />
 </p>
