@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Emmanuell%20Chaib&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%40%20Ita%C3%BA%20Unibanco&descSize=22&descAlignY=55" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=240046&height=250&section=header&text=Emmanuell%20Chaib&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Dev%20Full%20Stack%20%40%20Ita%C3%BA%20Unibanco&descSize=22&descAlignY=55" />
 </div>
 
 <div align="center">
@@ -8,9 +8,6 @@
   </a>
 </div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dDogdev&label=Visualiza%C3%A7%C3%B5es+do+Perfil&style=flat&color=E25908" alt="Profile Views" />
-</p>
 
 <p align="center">
   <a href="#-sobre-mim">Sobre mim</a> •
@@ -25,7 +22,7 @@
 
 Sou um desenvolvedor apaixonado por tecnologia e engenharia de software, focado em criar soluções escaláveis, eficientes e de alto impacto. Acredito na força do código limpo, em arquiteturas robustas e no profissionalismo como pilares para resultados de excelência.
 
-- 💼 Atualmente trabalhando como **Software Engineer no Itaú Unibanco**.
+- 💼 Atualmente atuando como **Dev Full Stack no Itaú Unibanco**.
 - 🔭 Trabalhando em **projetos Full Stack, desde a concepção até a entrega**.
 - 🌱 Estudando continuamente **boas práticas, arquitetura de sistemas e novas tecnologias**.
 - 💡 Focado em construir aplicações que entreguem valor real e uma experiência de usuário impecável.
@@ -101,5 +98,5 @@ Vamos conversar sobre código, arquitetura ou novas ideias? Sinta-se à vontade 
 </div>
 
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=240046&height=100&section=footer" />
 </p>
