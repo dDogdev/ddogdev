@@ -1,10 +1,10 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=240046&height=250&section=header&text=Emmanuell%20Chaib&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer&descSize=22&descAlignY=55&fontColor=ffffff&descColor=ffffff" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=00c6ff,0072ff&height=250&section=header&text=Emmanuell%20Chaib&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer&descSize=22&descAlignY=55&fontColor=ffffff&descColor=ffffff" />
 </div>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=E25908&center=true&vCenter=true&width=600&lines=Hello,+I%27m+Emmanuell+Chaib!;Full+Stack+Developer;More+than+a+project,+an+experience" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=0072ff&center=true&vCenter=true&width=600&lines=Hello,+I%27m+Emmanuell+Chaib!;Full+Stack+Developer;More+than+a+project,+an+experience" alt="Typing SVG">
   </a>
 </div>
 
@@ -13,7 +13,7 @@
 <p align="center">
   <a href="#-about-me">About me</a> •
   <a href="#-technologies">Technologies</a> •
-  <a href="#-github-statistics">Statistics</a> •
+  <a href="#-github-metrics">Metrics</a> •
   <a href="#-contact">Contact</a>
 </p>
 
@@ -78,16 +78,13 @@ My development ecosystem covers the best modern tools to build resilient systems
 
 ---
 
-## 📈 GitHub Statistics
+## 📊 GitHub Metrics
 
 <br>
 
 <div align="center">
   <a href="https://github.com/dDogdev">
-    <img src="https://github-readme-stats.vercel.app/api?username=dDogdev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="GitHub Statistics" />
-  </a>
-  <a href="https://github.com/dDogdev">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=dDogdev&theme=dracula" alt="GitHub Streak" />
+    <img src="https://metrics.lecoq.io/dDogdev?config_theme=tokyonight&base=header,activity,community,repositories,metadata&plugin_isocalendar=1&plugin_isocalendar_duration=half-year&plugin_achievements=1&plugin_achievements_display=detailed&plugin_achievements_secrets=true" alt="GitHub Metrics" />
   </a>
 </div>
 
@@ -109,5 +106,5 @@ Let's talk about code, architecture, or new ideas? Feel free to reach out to me:
 </div>
 
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=240046&height=100&section=footer" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=00c6ff,0072ff&height=100&section=footer" />
 </p>
