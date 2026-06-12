@@ -1,12 +1,16 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=dDogdev&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Desenvolvedor%20Full%20Stack&descSize=25&descAlignY=55" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Emmanuell%20Chaib&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%40%20Ita%C3%BA%20Unibanco&descSize=22&descAlignY=55" />
 </div>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=E25908&center=true&vCenter=true&width=600&lines=Ol%C3%A1,+eu+sou+o+dDogdev!+%F0%9F%91%8B;Apaixonado+por+tecnologia+e+c%C3%B3digo+%F0%9F%92%BB;Construindo+solu%C3%A7%C3%B5es+escal%C3%A1veis+%F0%9F%9A%80" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=E25908&center=true&vCenter=true&width=600&lines=Ol%C3%A1,+eu+sou+Emmanuell+Chaib!;Desenvolvedor+Full+Stack;Mais+que+um+projeto,+uma+experi%C3%AAncia" alt="Typing SVG">
   </a>
 </div>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=dDogdev&label=Visualiza%C3%A7%C3%B5es+do+Perfil&style=flat&color=E25908" alt="Profile Views" />
+</p>
 
 <p align="center">
   <a href="#-sobre-mim">Sobre mim</a> •
@@ -19,32 +23,34 @@
 
 ## 🧠 Sobre mim
 
-Sou um desenvolvedor brasileiro, apaixonado por tecnologia e arquitetura de sistemas, com foco em criar as melhores soluções tanto no **Frontend** quanto no **Backend**. Amo explorar as melhores práticas de código limpo, arquitetura de software e sistemas distribuídos.
+Sou um desenvolvedor apaixonado por tecnologia e engenharia de software, focado em criar soluções escaláveis, eficientes e de alto impacto. Acredito na força do código limpo, em arquiteturas robustas e no profissionalismo como pilares para resultados de excelência.
 
-- 🔭 Atualmente trabalhando em **projetos full stack e arquitetura de software**.
-- 🌱 Estudando continuamente **boas práticas, microsserviços e novas tecnologias**.
-- 💡 Buscando sempre evoluir e construir aplicações de alto impacto.
-- ⚡ Fato curioso: *Transformo café em código de alta performance!* ☕🚀
+- 💼 Atualmente trabalhando como **Software Engineer no Itaú Unibanco**.
+- 🔭 Trabalhando em **projetos Full Stack, desde a concepção até a entrega**.
+- 🌱 Estudando continuamente **boas práticas, arquitetura de sistemas e novas tecnologias**.
+- 💡 Focado em construir aplicações que entreguem valor real e uma experiência de usuário impecável.
 
 ---
 
 ## 🚀 Tecnologias e Ferramentas
 
-Acredito que dominar as ferramentas certas é o segredo para construir sistemas incríveis. Aqui estão as tecnologias nas quais tenho proficiência e uso no meu dia a dia:
+Meu ecossistema de desenvolvimento abrange as melhores ferramentas modernas para construir sistemas resilientes e interfaces incríveis:
 
 ### 💻 Linguagens
 <div align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 </div>
 
-### ⚙️ Frameworks & Backend
+### ⚙️ Frameworks & Bibliotecas
 <div align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot" />
@@ -65,9 +71,6 @@ Acredito que dominar as ferramentas certas é o segredo para construir sistemas 
 <div align="center">
   <a href="https://github.com/dDogdev">
     <img src="https://github-readme-stats.vercel.app/api?username=dDogdev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
-  </a>
-  <a href="https://github.com/dDogdev">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dDogdev&layout=compact&theme=dracula" alt="Top Linguagens" />
   </a>
 </div>
 
