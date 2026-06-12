@@ -45,6 +45,7 @@ When I'm not coding, I enjoy studying new software architecture paradigms, explo
 
 ## 🚀 Technologies
 
+
 My development ecosystem covers the best modern tools to build resilient systems and incredible interfaces:
 
 <br>
