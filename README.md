@@ -70,13 +70,16 @@ Meu ecossistema de desenvolvimento abrange as melhores ferramentas modernas para
 
 <div align="center">
   <a href="https://github.com/dDogdev">
-    <img src="https://github-readme-stats.vercel.app/api?username=dDogdev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=dDogdev&theme=dracula&area=true&hide_border=true" alt="Activity Graph" />
   </a>
 </div>
 
 <br>
 
 <div align="center">
+  <a href="https://github.com/dDogdev">
+    <img src="https://github-readme-stats.vercel.app/api?username=dDogdev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
+  </a>
   <a href="https://github.com/dDogdev">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=dDogdev&theme=dracula" alt="GitHub Streak" />
   </a>
