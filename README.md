@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=240046&height=250&section=header&text=Emmanuell%20Chaib&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Dev%20Full%20Stack%20%40%20Ita%C3%BA%20Unibanco&descSize=22&descAlignY=55" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=240046&height=250&section=header&text=Emmanuell%20Chaib&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Desenvolvedor%20Full%20Stack&descSize=22&descAlignY=55" />
 </div>
 
 <div align="center">
@@ -22,7 +22,7 @@
 
 Sou um desenvolvedor apaixonado por tecnologia e engenharia de software, focado em criar soluções escaláveis, eficientes e de alto impacto. Acredito na força do código limpo, em arquiteturas robustas e no profissionalismo como pilares para resultados de excelência.
 
-- 💼 Atualmente atuando como **Dev Full Stack no Itaú Unibanco**.
+- 💼 Atualmente atuando como **Dev Pleno** no Itaú.
 - 🔭 Trabalhando em **projetos Full Stack, desde a concepção até a entrega**.
 - 🌱 Estudando continuamente **boas práticas, arquitetura de sistemas e novas tecnologias**.
 - 💡 Focado em construir aplicações que entreguem valor real e uma experiência de usuário impecável.
