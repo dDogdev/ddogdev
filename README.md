@@ -37,6 +37,10 @@ When I'm not coding, I enjoy studying new software architecture paradigms, explo
 
 - 💡 Focused on building applications that deliver real value and a flawless user experience.
 
+<br>
+
+📫 **Reach out to me:** [Email](https://mail.google.com/mail/?view=cm&fs=1&to=odilonchb@gmail.com) | [Instagram](https://instagram.com/odilonchaib)
+
 ---
 
 ## 🚀 Technologies
@@ -104,7 +108,7 @@ Let's talk about code, architecture, or new ideas? Feel free to reach out to me:
 <br>
 
 <div align="center">
-  <a href="mailto:odilonchb@gmail.com">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=odilonchb@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://instagram.com/odilonchaib">
