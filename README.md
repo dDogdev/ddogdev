@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=240046&height=250&section=header&text=Emmanuell%20Chaib&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Desenvolvedor%20Full%20Stack&descSize=22&descAlignY=55" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=240046&height=250&section=header&text=Emmanuell%20Chaib&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Desenvolvedor%20Full%20Stack&descSize=22&descAlignY=55&fontColor=ffffff&descColor=ffffff" />
 </div>
 
 <div align="center">
@@ -65,13 +65,6 @@ Meu ecossistema de desenvolvimento abrange as melhores ferramentas modernas para
 
 ## 📈 Estatísticas do GitHub
 
-<div align="center">
-  <a href="https://github.com/dDogdev">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=dDogdev&theme=dracula&area=true&hide_border=true" alt="Activity Graph" />
-  </a>
-</div>
-
-<br>
 
 <div align="center">
   <a href="https://github.com/dDogdev">
