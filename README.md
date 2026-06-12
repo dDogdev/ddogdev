@@ -91,10 +91,12 @@ My development ecosystem covers the best modern tools to build resilient systems
 <br>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Total_Commits-2.4k-ff8c00?style=for-the-badge&logo=github&logoColor=white" alt="Commits" />
-  <img src="https://img.shields.io/badge/Total_PRs-185-ff8c00?style=for-the-badge&logo=github&logoColor=white" alt="PRs" />
-  <img src="https://img.shields.io/badge/Total_Stars-56-ff8c00?style=for-the-badge&logo=github&logoColor=white" alt="Stars" />
-  <img src="https://img.shields.io/badge/Current_Streak-14_Days-ff8c00?style=for-the-badge&logo=github&logoColor=white" alt="Streak" />
+  <a href="https://github.com/dDogdev">
+    <img src="https://github-readme-stats.vercel.app/api?username=dDogdev&show_icons=true&include_all_commits=true&count_private=true&hide_rank=true&bg_color=161b22&title_color=ff8c00&text_color=ffffff&icon_color=ff8c00&border_color=ff8c00" alt="GitHub Statistics" />
+  </a>
+  <a href="https://github.com/dDogdev">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=dDogdev&background=161b22&stroke=ff8c00&ring=ff8c00&fire=ff8c00&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ff8c00&sideLabels=ffffff&dates=ffffff" alt="GitHub Streak" />
+  </a>
 </div>
 
 ---
